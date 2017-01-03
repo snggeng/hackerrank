@@ -11,4 +11,4 @@ LinkedLists](https://github.com/snggeng/hackerrank/blob/master/hascycle.java)
 * Day 2: [Finding Merge Points in
 LinkedLists](https://github.com/snggeng/hackerrank/blob/master/findmergenode.java)
 * Day 3: [Journey To the Moon - Graph Theory &
-Dfs](https://github.com/snggeng/hackerrank/blob/master/journeytothemoon.java))
+Dfs](https://github.com/snggeng/hackerrank/blob/master/journeytothemoon.java)
