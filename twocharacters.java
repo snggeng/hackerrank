@@ -4,6 +4,9 @@ import java.text.*;
 import java.math.*;
 import java.util.regex.*;
 /*
+
+Source： https://www.hackerrank.com/challenges/two-characters
+
 SOLUTION 1: using a matrix
 Input: acbab
 
