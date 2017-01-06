@@ -14,3 +14,7 @@ LinkedLists](https://github.com/snggeng/hackerrank/blob/master/findmergenode.jav
 Dfs](https://github.com/snggeng/hackerrank/blob/master/journeytothemoon.java)
 * Day 4: [2 Characters - String Manipulation & 2d
 Arrays](https://github.com/snggeng/hackerrank/blob/master/twocharacters.java)
+* Day 5:
+[Pangrams](https://github.com/snggeng/hackerrank/blob/master/pangrams.java)
+* Day 6: [Caeser
+Cipher](https://github.com/snggeng/hackerrank/blob/master/caesercipher.java)
