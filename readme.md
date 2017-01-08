@@ -18,3 +18,5 @@ Arrays](https://github.com/snggeng/hackerrank/blob/master/twocharacters.java)
 [Pangrams](https://github.com/snggeng/hackerrank/blob/master/pangrams.java)
 * Day 6: [Caeser
 Cipher](https://github.com/snggeng/hackerrank/blob/master/caesercipher.java)
+* Day 7: [Search
+Grid](https://github.com/snggeng/hackerrank/blob/master/searchgrid.java)
