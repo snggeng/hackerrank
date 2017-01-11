@@ -20,3 +20,5 @@ Arrays](https://github.com/snggeng/hackerrank/blob/master/twocharacters.java)
 Cipher](https://github.com/snggeng/hackerrank/blob/master/caesercipher.java)
 * Day 7: [Search
 Grid](https://github.com/snggeng/hackerrank/blob/master/searchgrid.java)
+* Day 8 [Circular Array
+Rotation](https://github.com/snggeng/hackerrank/blob/master/circulararrayrotation.java))
