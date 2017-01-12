@@ -24,3 +24,5 @@ Grid](https://github.com/snggeng/hackerrank/blob/master/searchgrid.java)
 Rotation](https://github.com/snggeng/hackerrank/blob/master/circulararrayrotation.java)
 * Day 9: [Extra Long
 Factorials](https://github.com/snggeng/hackerrank/blob/master/extralongfactorials.java)
+* Day 10: [Angry
+Professor](https://github.com/snggeng/hackerrank/blob/master/angryprofessor.java)
