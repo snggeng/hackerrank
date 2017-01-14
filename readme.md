@@ -26,3 +26,5 @@ Rotation](https://github.com/snggeng/hackerrank/blob/master/circulararrayrotatio
 Factorials](https://github.com/snggeng/hackerrank/blob/master/extralongfactorials.java)
 * Day 10: [Angry
 Professor](https://github.com/snggeng/hackerrank/blob/master/angryprofessor.java)
+* Day 11: [Sherlock and the
+Beast](https://github.com/snggeng/hackerrank/blob/master/sherlockandthebeast.java)
