@@ -30,3 +30,5 @@ Professor](https://github.com/snggeng/hackerrank/blob/master/angryprofessor.java
 Beast](https://github.com/snggeng/hackerrank/blob/master/sherlockandthebeast.java)
 * Day 12: [Utopian
 Tree](https://github.com/snggeng/hackerrank/blob/master/utopiantree.java)
+* Day 13: [Counting
+Change](https://github.com/snggeng/hackerrank/blob/master/countchange.java)
