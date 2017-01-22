@@ -38,3 +38,5 @@ Change](https://github.com/snggeng/hackerrank/blob/master/countchange.java)
 In-Place](https://github.com/snggeng/hackerrank/blob/master/quicksort3.java)
 * Day 16: [Ice Cream
 Parlor](https://github.com/snggeng/hackerrank/blob/master/icecreamparlor.java)
+* Day 17:  [Hackerland Radio
+Transmitters](https://github.com/snggeng/hackerrank/blob/master/hackerlandradiotransmitters.java)
