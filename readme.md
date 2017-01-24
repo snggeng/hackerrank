@@ -40,3 +40,5 @@ In-Place](https://github.com/snggeng/hackerrank/blob/master/quicksort3.java)
 Parlor](https://github.com/snggeng/hackerrank/blob/master/icecreamparlor.java)
 * Day 17:  [Hackerland Radio
 Transmitters](https://github.com/snggeng/hackerrank/blob/master/hackerlandradiotransmitters.java)
+* Day 18: [Missing
+Numbers](https://github.com/snggeng/hackerrank/blob/master/missingnumbers.java)
