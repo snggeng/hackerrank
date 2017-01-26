@@ -44,3 +44,5 @@ Transmitters](https://github.com/snggeng/hackerrank/blob/master/hackerlandradiot
 Numbers](https://github.com/snggeng/hackerrank/blob/master/missingnumbers.java)
 * Day 19: (Lonely
 Integer)(https://github.com/snggeng/hackerrank/blob/master/lonelyinteger.java)
+* Day 20: [Maximizing
+XOR](https://github.com/snggeng/hackerrank/blob/master/maximisingxor.java)
