@@ -46,3 +46,5 @@ Numbers](https://github.com/snggeng/hackerrank/blob/master/missingnumbers.java)
 Integer)(https://github.com/snggeng/hackerrank/blob/master/lonelyinteger.java)
 * Day 20: [Maximizing
 XOR](https://github.com/snggeng/hackerrank/blob/master/maximisingxor.java)
+* Day 21: [Sparse
+Arrays](https://github.com/snggeng/hackerrank/blob/master/sparsearrays.java)
