@@ -48,3 +48,5 @@ Integer)(https://github.com/snggeng/hackerrank/blob/master/lonelyinteger.java)
 XOR](https://github.com/snggeng/hackerrank/blob/master/maximisingxor.java)
 * Day 21: [Sparse
 Arrays](https://github.com/snggeng/hackerrank/blob/master/sparsearrays.java)
+* Day 22: [Flipping the
+Matrix](https://github.com/snggeng/hackerrank/blob/master/flippingmatrix.java)
