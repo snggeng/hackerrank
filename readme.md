@@ -50,3 +50,5 @@ XOR](https://github.com/snggeng/hackerrank/blob/master/maximisingxor.java)
 Arrays](https://github.com/snggeng/hackerrank/blob/master/sparsearrays.java)
 * Day 22: [Flipping the
 Matrix](https://github.com/snggeng/hackerrank/blob/master/flippingmatrix.java)
+* Day 23: [Insertion Sort
+1](https://github.com/snggeng/hackerrank/blob/master/insertionsort1.java)
