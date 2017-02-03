@@ -52,3 +52,5 @@ Arrays](https://github.com/snggeng/hackerrank/blob/master/sparsearrays.java)
 Matrix](https://github.com/snggeng/hackerrank/blob/master/flippingmatrix.java)
 * Day 23: [Insertion Sort
 1](https://github.com/snggeng/hackerrank/blob/master/insertionsort1.java)
+* Day 24: [Insertion Sort
+2](https://github.com/snggeng/hackerrank/blob/master/insertionsort2.java)
