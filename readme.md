@@ -54,3 +54,5 @@ Matrix](https://github.com/snggeng/hackerrank/blob/master/flippingmatrix.java)
 1](https://github.com/snggeng/hackerrank/blob/master/insertionsort1.java)
 * Day 24: [Insertion Sort
 2](https://github.com/snggeng/hackerrank/blob/master/insertionsort2.java)
+* Day 25 [Fibonacci
+Modified](https://github.com/snggeng/hackerrank/blob/master/fibonacci-modified.java)
