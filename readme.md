@@ -58,3 +58,7 @@ Matrix](https://github.com/snggeng/hackerrank/blob/master/flippingmatrix.java)
 Modified](https://github.com/snggeng/hackerrank/blob/master/fibonacci-modified.java)
 * Day 26 [Beautiful Binary
 String](https://github.com/snggeng/hackerrank/blob/master/beautiful-binary-string.java)
+* Day 27 [Median of 2 Sorted
+Arrays](https://github.com/snggeng/hackerrank/blob/master/median-of-two-sorted-arrays.java)
+* Day 28 [Longest Consecutive
+Sequence](https://github.com/snggeng/hackerrank/blob/master/longest-consecutive-sequence.java)
