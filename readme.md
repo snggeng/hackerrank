@@ -62,5 +62,7 @@ String](https://github.com/snggeng/hackerrank/blob/master/beautiful-binary-strin
 Arrays](https://github.com/snggeng/hackerrank/blob/master/median-of-two-sorted-arrays.java)
 * Day 28 [Longest Consecutive
 Sequence](https://github.com/snggeng/hackerrank/blob/master/longest-consecutive-sequence.java)
-* Day 30 [Array Left
+* Day 29 [Array Left
 Rotation](https://github.com/snggeng/hackerrank/blob/master/array-left-rotation.java)
+* Day 30 [Array Left
+Rotation](https://github.com/snggeng/hackerrank/blob/master/range-sum-query.java)
