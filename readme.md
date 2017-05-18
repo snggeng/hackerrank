@@ -64,5 +64,4 @@ Arrays](https://github.com/snggeng/hackerrank/blob/master/median-of-two-sorted-a
 Sequence](https://github.com/snggeng/hackerrank/blob/master/longest-consecutive-sequence.java)
 * Day 29 [Array Left
 Rotation](https://github.com/snggeng/hackerrank/blob/master/array-left-rotation.java)
-* Day 30 [Array Left
-Rotation](https://github.com/snggeng/hackerrank/blob/master/range-sum-query.java)
+* Day 30 [Range Sum Query](https://github.com/snggeng/hackerrank/blob/master/range-sum-query.java)
